@@ -4,3 +4,4 @@ from .mcmc import plot_mcmc
 from .ellipse import plot_tissot_ellipse
 from .multiaxes import MultiAxes
 from .settings import setup_text_plots
+from .smooth_contour import smooth_contour,smooth_contourf
